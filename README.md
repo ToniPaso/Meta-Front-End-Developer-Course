@@ -17,5 +17,9 @@
 [6. Improve your Bio page with Bootstrap](./folder_name/file_inside_folder.extension)
 
 <b>Course: Programming with JavaScript</b>
-1. Building a functional program
+
+[1. Building a functional program](./folder_name/file_inside_folder.extension)
+
+
+
 
