@@ -4,9 +4,9 @@
 
 Course: Introduction to Front-End Development
 
-[1. Creating an HTML Document](./folder_name/file_inside_folder.extension)1. 
+[1. Creating an HTML Document](./folder_name/file_inside_folder.extension)
 
-
+[2. Styling a page](./folder_name/file_inside_folder.extension)
 
 
 2. Styling a page
