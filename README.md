@@ -1,5 +1,5 @@
           This code is the result of my individual efforts in completing a Coursera certification course. 
-          It showcases my understanding of the course material and highlights my commitment to con          tinuous learning through reputable online platforms.
+          It showcases my understanding of the course material and highlights my commitment to continuous learning through reputable online platforms.
 
 
 <b>Course: Introduction to Front-End Development</b>
