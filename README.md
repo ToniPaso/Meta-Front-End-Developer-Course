@@ -2,7 +2,7 @@
           It showcases my understanding of the course material and highlights my commitment to continuous learning through reputable online platforms.
 
 
-Course: Introduction to Front-End Development
+<b>Course: Introduction to Front-End Development</b>
 
 [1. Creating an HTML Document](./folder_name/file_inside_folder.extension)
 
